@@ -1,0 +1,50 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+    .center-text{
+    text-align: center;
+    }
+    h1 h2{
+        color:#721817;
+    }
+    body{
+        background-color: #E0E0E2;
+
+    }
+    h2.span{
+        color: #FA9F42;
+        size: 0.75rem;
+    }
+    #copyright{
+        padding-top: 12px;
+        size: 0.75rem;
+    }
+
+    .row{
+        float: left;
+        width: 50%;
+        padding: 5px;
+        align-items: center;
+    }
+      img{
+        border-radius: 50px;
+
+    }
+    table{
+        border: #721817;
+        border-radius: 1px;
+
+    }
+    .col{
+        width: 50%;
+
+    }
+
+
+
